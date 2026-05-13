@@ -1,0 +1,29 @@
+# Langchain
+langchain
+langchain-core
+langchain_community
+langchain-pinecone
+pinecone[grpc]
+
+# Hugging Face Integration
+langchain-huggingface
+transformers
+huggingface-hub
+sentence-transformers
+
+#python
+flask
+
+#Enviromental Variable Management
+python-dotenv
+
+#Database
+faiss-cpu
+
+#PDF Loader
+pypdf
+
+#Machine Learning Utilities
+numpy
+scikit-learn
+torch
